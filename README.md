@@ -18,4 +18,4 @@ I am Shobhakhar Adhikari a Data Analyst/Data Scientist based in Greensboro-Highp
 
 In the field of data analysis and ML, I am mainly interested on analyzing large data sets and developing new ML models to help business make appropriate data-drivien decisions. I have strong Mathematical and Statistical background. I am expereinced using Python, R and Tableau.
 
-I am passionate about teaching and sharing my knowledge to other people. I have taught undergraduate level Math for more than 6 years. I also enjoys to travel new places, singing and running.
+I am passionate about teaching and sharing my knowledge to other people. I have taught undergraduate level Math for more than 6 years. I love to travel new places, singing and running.
