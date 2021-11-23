@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I am Shobhkahar Adhikari a Data Analyst/Data Scientist based in Greensboro-Highpoint-Winston Salem (TRIAD) area of North Carolina. I have been working in the field of data analysis and Machine learning(ML) for more than two years and enjoyed every aspects of it. I am very enthusiastic and highly motivated person who loves to solve new problems by gaining more knowledge and using new technologies.
+
 In the field of data analysis and ML, I am mainly interested on analyzing large data sets and developing new ML models to help business make appropriate data-drivien decisions. I have strong Mathematical and Statistical background. I am expereinced using Python, R and Tableau.
+
 I am passionate about teaching and sharing my knowledge to other people. I have taught undergraduate level Math for more than 6 years. I also enjoys to travel new places, singing and running.
