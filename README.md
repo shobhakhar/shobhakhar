@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am Shobhakhar Adhikari a Data Analyst/Data Scientist based in Greensboro-Highpoint-Winston Salem (TRIAD) area of North Carolina. I have been working in the field of data analysis and Machine learning(ML) for more than two years and enjoyed every aspects of it. I am very enthusiastic and highly motivated person who loves to solve new problems by gaining more in depth knowledge and using new technologies.
+I am Shobhakhar Adhikari a Data Analyst/Data Scientist based in Greensboro-Highpoint-Winston Salem (TRIAD) area of North Carolina. I have been exploring the field of data analysis and Machine learning(ML) for more than two years and enjoyed every aspects of it. I am very enthusiastic and highly motivated person who loves to solve new problems by gaining more in depth knowledge and using new technologies.
 
 In the field of data analysis and ML, I am mainly interested on analyzing large data sets and developing new ML models to help business make appropriate data-drivien decisions. I have strong Mathematical and Statistical background. I am expereinced using Python, R, SQL and Tableau.
 
